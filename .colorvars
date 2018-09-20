@@ -1,0 +1,4 @@
+#! /bin/bash
+
+export SCOLOR_back="#21252b"
+export SCOLOR_accent="#d26670"
